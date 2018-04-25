@@ -1,0 +1,8 @@
+{
+  "name": "inapp",
+  "app_id": "be12910b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
